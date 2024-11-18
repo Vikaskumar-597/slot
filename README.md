@@ -28,7 +28,7 @@ Execute the program using runserver command.
 <html>
     <body>
         <center>
-            <img src="/static/logo.png" height="150" width="600">
+            <img src="/static/logo.png" height="150" width="800">
         </center>
         <table border="3" cellpadding="7" align="center" bgcolor="cyan">
             <caption ><b><h2>SLOT TIMETABLE - VIKASKUMAR M (24900247)</h2></b></caption>
